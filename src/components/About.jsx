@@ -30,7 +30,9 @@ function About() {
       </div>
       <div className="p-5 mt-8 bg-blue-100">
         <h1 className="text-2xl font-bold">Sobre Mim</h1>
-        <p className="mt-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque velit velit, volutpat semper dignissim dictum, imperdiet ut lacus...</p>
+        <p className="mt-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque velit velit, volutpat semper dignissim dictum, imperdiet ut lacus,  </p>
+        <p className="mt-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque velit velit </p>
+
       </div>
     </div>
   );
