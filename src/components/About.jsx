@@ -8,7 +8,7 @@ function About() {
       <div className="flex flex-col md:flex-row items-center gap-8 p-5 w-full max-w-5xl mx-auto">
         <div className="flex-1 flex flex-col  w-full">
           <h1 className="text-2xl font-bold">Olá, meu nome é Vitor Paiva e construo páginas web</h1>
-          <p className="mt-4">Eu sou formado em lorem ipsum sit amet consectetur e atualmente estou participando no projeto Oracle ONE na Alura.</p>
+          <p className="mt-4">Eu sou estudande de Front-End e atualmente estou participando no projeto Oracle ONE na Alura.</p>
           <div className="mt-8 flex justify-center md:justify-start gap-5">
             <a href="https://github.com/vitorpaiv4" className="flex items-center mr-4 hover:underline" target="_blank" rel="noopener noreferrer">
               GitHub<ArrowUpRightIcon className='h-4 ' />
@@ -31,8 +31,8 @@ function About() {
       <div className="p-5 mt-8 bg-blue-100 w-full ">
         <div className='max-w-5xl mx-auto'>
           <h1 className="text-2xl font-bold">Sobre Mim</h1>
-          <p className="mt-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque velit velit, volutpat semper dignissim dictum, imperdiet ut lacus,  </p>
-          <p className="mt-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque velit velit </p>
+          <p className="mt-4">Meu nome é Vitor Paiva, sou estudante de Sistemas de Informação (2024-2027) com foco em Desenvolvimento Web, especialmente em Front-end. </p>
+          <p className="mt-4"> Estou muito animado para aprender e crescer nesta área em constante evolução.</p>
         </div>
 
       </div>
