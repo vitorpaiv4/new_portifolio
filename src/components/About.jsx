@@ -9,7 +9,7 @@ function About() {
         <div className="flex-1 flex flex-col  w-full">
           <h1 className="text-2xl font-bold">Olá, meu nome é Vitor Paiva e construo páginas web</h1>
           <p className="mt-4">Eu sou estudande de Front-End e atualmente estou participando no projeto Oracle ONE na Alura.</p>
-          <div className="mt-8 flex justify-center md:justify-start gap-5">
+          <div className="mt-8 flex justify-center md:justify-start gap-5 lg:flex-row flex-col">
             <a href="https://github.com/vitorpaiv4" className="flex items-center mr-4 hover:underline" target="_blank" rel="noopener noreferrer">
               GitHub<ArrowUpRightIcon className='h-4 ' />
             </a>
