@@ -6,3 +6,19 @@ html {
     scroll-behavior: smooth;
   }
   
+
+  .custom-arrow {
+   position: absolute;
+    top: 50%;
+    z-index: 10;
+    font-size: 50px; 
+    color: rgba(145, 16, 16, 0.8); 
+    cursor: pointer;}
+
+.custom-arrow.prev {
+  left: 20px; 
+}
+
+.custom-arrow.next {
+  right: 20px; 
+}

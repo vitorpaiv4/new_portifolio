@@ -18,7 +18,7 @@ function App() {
   }
 
   return (
-    <div className="mx-auto  text-black min-h-screen py-8 relative">
+    <div className="mx-auto bg-gray-100  text-black min-h-screen py-8 relative">
       {
         drawer &&
         <div className='h-full overflow-hidden w-screen fixed top-0 bg-black/30 backdrop-blur-lg flex '>
