@@ -10,12 +10,13 @@ const ProjectCard = ({ titulo, descricao, linkRepositorio, linkDemo, imagem }) =
           {descricao}
         </p>
       </div>
-      <div className="px-6 pt-4 pb-2">
+      <div className="px-6 pt-4 pb-2 flex justify-center">
         <a href={linkRepositorio} className="inline-block bg-blue-500 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Repositório</a>
-        <a href={linkDemo} className="inline-block bg-green-500 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Ver demo</a>
+        <a href={linkDemo} className="inline-block bg-green-500 rounded-full px-3 py-1 text-sm font-semibold text-white mb-2">Ver demo</a>
       </div>
     </div>
   );
 };
 
 export default ProjectCard;
+
