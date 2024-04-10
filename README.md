@@ -30,9 +30,9 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório para sua máquina local: https://github.com/vitorpaiv4
   
-2. Navegue até o diretório do projeto: cd seuRepositorio
-3. Instale as dependências necessárias: npm install
-4. Execute o projeto: npm start
+2. Navegue até o diretório do projeto: `cd seuRepositorio`
+3. Instale as dependências necessárias: `npm install`
+4. Execute o projeto: `npm start`
 
 
 O projeto estará disponível em `http://localhost:3000`.
