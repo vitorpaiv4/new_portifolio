@@ -6,7 +6,7 @@ import { faHtml5, faCss3Alt, faJsSquare, faReact, faNodeJs  } from '@fortawesome
 function Skills() {
   return (
     <div className="text-center">
-      <h1 className="text-3xl font-bold mb-6 ">Skills</h1>
+      <h1 className="text-4xl font-bold mb-6 ">Skills</h1>
       <div className="flex flex-wrap justify-center gap-4">
         <div className="flex flex-col items-center p-7 shadow-lg">
           <span>HTML5</span>

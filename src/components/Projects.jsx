@@ -80,7 +80,7 @@ function Projects() {
 
   return (
     <div className="text-center">
-      <h1 className="text-2xl font-bold mb-8">Experiência profissional</h1>
+      <h1 className="text-4xl font-bold mb-8">Projetos</h1>
       <Slider {...settings}>
         {meusProjetos.map((projeto, indice) => (
           <div key={indice}>

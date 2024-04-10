@@ -5,7 +5,7 @@ import { faCode, faRunning, faMusic, faFilm, faUtensils, faHeadphones} from '@fo
 function Hobbies() {
   return (
     <div className="text-center">
-      <h1 className="text-3xl font-bold mb-8 ">Hobbies</h1>
+      <h1 className="text-4xl font-bold mb-8 ">Hobbies</h1>
       <div className="flex flex-wrap justify-center gap-4">
         <div className="flex flex-col items-center p-7  shadow-lg gap-4">
           <span>Programar</span>
