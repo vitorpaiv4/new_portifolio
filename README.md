@@ -22,7 +22,7 @@ Este portfólio inclui as seguintes seções:
 
 ## Visualização
 
-Você pode visualizar o portfólio ao vivo [inserir link aqui], onde está hospedado para acesso público.
+Você pode visualizar o portfólio ao vivo [[aqui](https://new-portifolio-pi.vercel.app/)], onde está hospedado para acesso público.
 
 ## Executando o Projeto Localmente
 
