@@ -67,7 +67,10 @@ function App() {
         <div id="projects"><Projects /></div>
         <div id="contact"><Contact /></div>
       </main>
-
+      <div className="w-full text-center py-4 bg-gray-100">
+  
+  <h1 onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} className="text-1xl ml-2 cursor-pointer">Feito por Vitor Paiva</h1>
+</div>
     </div>
   );
 }

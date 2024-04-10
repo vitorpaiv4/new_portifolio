@@ -71,8 +71,8 @@ function Projects() {
     {
       titulo: 'Tela De Login',
       descricao: 'Challenge Alura Codificador',
-      linkRepositorio: '#',
-      linkDemo: '#',
+      linkRepositorio: 'https://github.com/vitorpaiv4/tela-login',
+      linkDemo: 'https://tela-login-react.vercel.app/',
       imagem: imagemProjeto5, 
     },
    

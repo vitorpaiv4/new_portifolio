@@ -30,7 +30,7 @@ function About() {
       </div>
       <div className="p-5 mt-8 bg-blue-100 w-full ">
         <div className='max-w-5xl mx-auto'>
-          <h1 className="text-2xl font-bold">Sobre Mim</h1>
+          <h1 className="text-3xl font-bold">Sobre Mim</h1>
           <p className="mt-4">Meu nome é Vitor Paiva, sou estudante de Sistemas de Informação (2024-2027) com foco em Desenvolvimento Web, especialmente em Front-end. </p>
           <p className="mt-4"> Estou muito animado para aprender e crescer nesta área em constante evolução.</p>
         </div>
