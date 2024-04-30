@@ -45,13 +45,13 @@ function App() {
           <h1 className="text-3xl ml-2">Vitor Paiva</h1>
         </div>
         <div className="hidden md:flex items-center gap-7 lg:flex text-2xl ">
-          <button onClick={() => scrollToSection('home')} className='flex gap-2 hover:text-blue-700'><HomeIcon className='h-7' />Menu</button>
-          <button onClick={() => scrollToSection('about')} className='flex gap-2 hover:text-blue-700'><UserIcon className='h-7' />Sobre Mim</button>
-          <button onClick={() => scrollToSection('skills')} className='flex gap-2 hover:text-blue-700'><ComputerDesktopIcon className='h-7' />Skills</button>
-          <button onClick={() => scrollToSection('hobbies')} className='flex gap-2 hover:text-blue-700'><CommandLineIcon className='h-7' />Hobbies</button>
-          <button onClick={() => scrollToSection('formacion')} className='flex gap-2 hover:text-blue-700'><AcademicCapIcon className='h-7' />Formação</button>
-          <button onClick={() => scrollToSection('projects')} className='flex gap-2 hover:text-blue-700'><BookOpenIcon className='h-7' />Projeto</button>
-          <button onClick={() => scrollToSection('contact')} className='flex gap-2 hover:text-blue-700'><PhoneIcon className='h-7' />Contato</button>
+          <button onClick={() => scrollToSection('home')} className='flex gap-2 hover:text-blue-700 hover:text-3xl'><HomeIcon className='h-7 ' />Menu</button>
+          <button onClick={() => scrollToSection('about')} className='flex gap-2 hover:text-blue-700 hover:text-3xl'><UserIcon className='h-7' />Sobre Mim</button>
+          <button onClick={() => scrollToSection('skills')} className='flex gap-2 hover:text-blue-700 hover:text-3xl'><ComputerDesktopIcon className='h-7' />Skills</button>
+          <button onClick={() => scrollToSection('hobbies')} className='flex gap-2 hover:text-blue-700 hover:text-3xl'><CommandLineIcon className='h-7' />Hobbies</button>
+          <button onClick={() => scrollToSection('formacion')} className='flex gap-2 hover:text-blue-700 hover:text-3xl'><AcademicCapIcon className='h-7' />Formação</button>
+          <button onClick={() => scrollToSection('projects')} className='flex gap-2 hover:text-blue-700 hover:text-3xl'><BookOpenIcon className='h-7' />Projeto</button>
+          <button onClick={() => scrollToSection('contact')} className='flex gap-2 hover:text-blue-700 hover:text-3xl'><PhoneIcon className='h-7' />Contato</button>
         </div>
         <div className="flex md:hidden items-center gap-5 lg:hidden ">
           <button onClick={handleChangeDrawer} className='flex gap-2 hover:text-blue-700'><Bars3Icon className='h-5' /></button>
